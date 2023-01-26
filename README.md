@@ -1,7 +1,7 @@
 # MVA-GCN
 MVA-GCN: a machine learning algorithm prediction for dense granule proteins for Apicomplexa
 
-Citation: Lu Z X, Hu H, et al. Citation: Lu Z X, Hu H, et al. Development and validation of a machine learning algorithm prediction for dense granule proteins for Apicomplexa.2023.
+Citation: Lu Z X, Hu H, et al. Development and validation of a machine learning algorithm prediction for dense granule proteins for Apicomplexa.2023.
 
 
 ## Datasets
@@ -19,11 +19,12 @@ Citation: Lu Z X, Hu H, et al. Citation: Lu Z X, Hu H, et al. Development and va
 
 # Requirements
 
-* SVM is implemented to work under Python 3.9. 
-* numpy==1.22.4
-* tqdm==4.64.0
-* sklearn==0.24.2
-* pandas==1.3.4
+* python==3.7
+* numpy==1.18.5
+* pandas==1.3.5
+* scikit-learn==1.0.2
+* scipy==1.4.1
+* pytorch==1.5.0
 
 ## Contact
 
